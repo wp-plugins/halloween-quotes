@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<halloween>
+    <animation name="Spider">
+        <type>Image/GIF</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/spider.gif</src>
+            <width>106</width>
+            <height>625</height>
+        </file>
+        <animate-function>toBottomBackToTop</animate-function>
+        <show-time>2100</show-time>
+    </animation>
+    <animation name="Bats">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/bats.swf</src>
+            <width>85</width>
+            <height>62</height>
+        </file>
+        <animate-function>randomXYMoving</animate-function>
+        <show-time>5600</show-time>
+    </animation>
+    <animation name="Cat">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/cat.swf</src>
+            <width>125</width>
+            <height>90</height>
+        </file>
+        <animate-function>fromRightToLeft</animate-function>
+        <show-time>6600</show-time>
+    </animation>
+    <animation name="Ghost">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/ghost.swf</src>
+            <width>170</width>
+            <height>180</height>
+        </file>
+        <animate-function>randomXY</animate-function>
+        <show-time>4600</show-time>
+    </animation>
+    <animation name="Hand">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/hand.swf</src>
+            <width>100</width>
+            <height>139</height>
+        </file>
+        <animate-function>randomXY</animate-function>
+        <show-time>1800</show-time>
+    </animation>
+    <animation name="Pumpkin">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/pumpkin.swf</src>
+            <width>600</width>
+            <height>70</height>
+        </file>
+        <animate-function>bottomLeft</animate-function>
+        <show-time>2500</show-time>
+    </animation>
+    <animation name="Witch">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/witch.swf</src>
+            <width>160</width>
+            <height>129</height>
+        </file>
+        <animate-function>bottomRandomX</animate-function>
+        <show-time>2600</show-time>
+    </animation>
+    <animation name="Holes">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/holes.swf</src>
+            <width>300</width>
+            <height>300</height>
+        </file>
+        <animate-function>randomXY</animate-function>
+        <show-time>1500</show-time>
+    </animation>
+    <animation name="Skull">
+        <type>Flash</type>
+        <file>
+            <src>wp-content/plugins/halloween-quotes/animations/skul.swf</src>
+            <width>95</width>
+            <height>290</height>
+        </file>
+        <animate-function>leftRandomY</animate-function>
+        <show-time>2700</show-time>
+    </animation>
+</halloween>
